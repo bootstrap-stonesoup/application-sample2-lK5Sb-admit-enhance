@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: component-sample2
     app.kubernetes.io/part-of: application-sample2
-  name: component-sample2abww
+  name: component-sample2cdkh
 spec:
   path: /
   port:
